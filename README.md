@@ -1,8 +1,8 @@
 ## Changelog IbisLinux Multilib v1.2
 
-`17 Feb 2021`
 
- Done build `Cross Compiling Temporary Tools`
+
+### [17/02/2021] Done build `Cross Compiling Temporary Tools`
 - `Binutils-2.36 - Pass 1`
 - `GCC-10.2.0 - Pass 1`
 - `Linux-5.10.12 API Headers`
@@ -27,9 +27,7 @@
 - `GCC-10.2.0 - Pass 2`
 
 
-`19 Feb 2021`
-
-Building `core` system :
+### [19/02/2021] Building `core` system :
 - `Man-pages-5.10`
 - `Iana-Etc-20210115`
 - `Glibc-2.33`
