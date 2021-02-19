@@ -49,3 +49,5 @@
 - `MPC-1.2.1`
 - `ISL-0.22.1`
 - `Attr-2.4.48`
+- `Acl-2.2.53`
+- `Libcap-2.47` (Trouble compile on x86_64) | fix : set `CC="gcc -mx32 -march=x86-64"` then `make`
