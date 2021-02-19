@@ -51,3 +51,13 @@
 - `Attr-2.4.48`
 - `Acl-2.2.53`
 - `Libcap-2.47` (Trouble compile on x86_64) | fix : set `CC="gcc -mx32 -march=x86-64"` then `make`
+- `Shadow-4.8.1`
+- `GCC-10.2.0`
+- `Pkg-config-0.29.2`
+- `Ncurses-6.2`
+- `Sed-4.8`
+- `Psmisc-23.3`
+- `Gettext-0.21`
+- `Bison-3.7.5`
+- `Grep-3.6`
+- `Bash-5.1`
