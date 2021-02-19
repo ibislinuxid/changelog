@@ -4,4 +4,7 @@
  - Done build `Cross Compiling Temporary Tools`
 
 `18 Feb 2021`
- - Building core system (until zlib)
+ - Building `core` system (until util-linux)
+
+`19 Feb 2021`
+- Building `core` system (until tcl)
