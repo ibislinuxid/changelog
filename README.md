@@ -61,3 +61,32 @@
 - `Bison-3.7.5`
 - `Grep-3.6`
 - `Bash-5.1`
+
+### [20/02/2021] Building `core` system :
+- `Libtool-2.4.6`
+- `GDBM-1.19`
+- `Gperf-3.1`
+- `Expat-2.2.10`
+- `Inetutils-1.9.4`
+- `Perl-5.32.1`
+- `XML::Parser-2.46`
+- `Intltool-0.51.0`
+- `Autoconf-2.71`
+- `Automake-1.16.3`
+- `Kmod-28`
+- `Libelf from Elfutils-0.182`
+- `Libffi-3.3`
+- `OpenSSL-1.1.1i`
+- `Python-3.9.1`
+- `Ninja-1.10.2`
+- `Meson-0.56.2`
+- `Coreutils-8.32`
+- `Check-0.15.2`
+- `Diffutils-3.7`
+- `Gawk-5.1.0`
+- `Findutils-4.8.0`
+- `Groff-1.22.4`
+- `GRUB-2.04`
+- `Less-563`
+- `Gzip-1.10`
+- `IPRoute2-5.10.0`
