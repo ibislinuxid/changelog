@@ -1,4 +1,4 @@
-## Changelog IbisLinux Multilib v1.2
+## Changelog IbisLinux 2.0
 
 
 
