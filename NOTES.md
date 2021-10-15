@@ -1,0 +1,3 @@
+## NOTES FOR BUILDING IBISLINUX
+
+### Thanks to Allah SWT
