@@ -2,4 +2,4 @@
 
 
 
-### [27/04/2021] Buliding core ports system
+### [16/10/2021] Downloading all core package from linuxfromscratch v9.1
