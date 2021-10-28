@@ -12,3 +12,7 @@
 
 ### [23/10/2021] 
 * Installing xorg until page Mesa
+
+### [29/10/2021]
+* Installing mesa dependencies
+* Done installing Mesa 3D
