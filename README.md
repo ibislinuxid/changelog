@@ -11,4 +11,4 @@
 * Installing deps until Font Config continue to Xorg Libraries
 
 ### [23/10/2021] 
-*Installing xorg until page Mesa
+* Installing xorg until page Mesa
