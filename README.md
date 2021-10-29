@@ -16,3 +16,6 @@
 ### [29/10/2021]
 * Installing mesa dependencies
 * Done installing Mesa 3D
+
+### [30/10/2021]
+* Installing dependencies of Xorg Server (choosing polkit)
